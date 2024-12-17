@@ -5,6 +5,6 @@ The data was retrived from Kaggle. You can find the original [here](https://www.
 ## Results 
 The presentation about results can be found in [file](Report.pdf).
 ## Authors
-* Mateusz Mglej
+* [Mateusz Mglej](https://github.com/MatMgl)
 * Łukasz Obrzut
 * Krzysztof Madej
